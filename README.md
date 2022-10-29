@@ -1,2 +1,2 @@
-# KP-PLM
-We Proposed A Noval and Effect Framework for Knowledge-Enhanced Pre-trained Language Model
+# Knowledge Prompting in Pre-trained Language Model for Natural Language Understanding
+Accepted By EMNLP2022 (main conference).
